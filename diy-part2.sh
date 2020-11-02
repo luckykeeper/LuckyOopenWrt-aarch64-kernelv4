@@ -12,3 +12,9 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+
+git clone https://github.com/kuoruan/openwrt-v2ray.git package/v2ray-core
+git clone https://github.com/crotoc/luci-app-v2ray.git package/luci-app-v2ray
+git clone https://github.com/2512500960/zzu-minieap-openwrt.git package/mini-eap
+git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/mentohust
+git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
