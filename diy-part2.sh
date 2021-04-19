@@ -23,4 +23,3 @@ git clone https://github.com/toss-a/luci-theme-atmaterial.git package/luci-theme
 git clone https://github.com/kevin-morgan/luci-theme-argon-dark.git package/luci-theme-argon-dark
 git clone https://github.com/apollo-ng/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/stustanet/luci-theme-ssn.git package/luci-theme-ssn
-git clone https://github.com/docker/docker-ce.git package/docker-ce
