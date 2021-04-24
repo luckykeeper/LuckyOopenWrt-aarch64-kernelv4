@@ -15,11 +15,4 @@
 
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/mentohust
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
-git clone https://github.com/ysc3839/openwrt-minieap.git package/minieap
-git clone https://github.com/ysc3839/luci-proto-minieap.git package/luci-proto-minieap
-git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
-git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
-git clone https://github.com/toss-a/luci-theme-atmaterial.git package/luci-theme-atmaterial
-git clone https://github.com/kevin-morgan/luci-theme-argon-dark.git package/luci-theme-argon-dark
-git clone https://github.com/apollo-ng/luci-theme-darkmatter.git package/luci-theme-darkmatter
-git clone https://github.com/stustanet/luci-theme-ssn.git package/luci-theme-ssn
+git clone https://github.com/kenzok8/openwrt-packages.git package/
